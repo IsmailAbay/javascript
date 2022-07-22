@@ -13,3 +13,6 @@ borcunuz ${(2 + 3) * 10 } TL
 gunun saat bilgisi ${new Date().getHours() }
 kısa isminiz:${username[0]}.`
 console.log(info)
+ 
+
+//ismini yanlış yazmışım :)
