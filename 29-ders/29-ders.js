@@ -9,7 +9,6 @@ console.log(
     items.length //array icindeki oge sayisi
 )
 
-
 console.log( items[0] )
 
 console.log( items[items.length - 1] )
