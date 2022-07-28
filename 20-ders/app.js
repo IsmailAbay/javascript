@@ -15,7 +15,7 @@ helloFuncV3("helloFuncV3")
 const helloFuncV4 = firstName =>  {console.log(`merhaba ${firstName}`)}
 helloFuncV4("helloFuncV4")
 
-const helloFuncV5 = firstName =>  {console.log(`merhaba ${firstName}`)}
+const helloFuncV5 = firstName => {console.log(`merhaba ${firstName}`)}
 helloFuncV5("helloFuncV5")
 
 const helloFuncV6 = firstName =>  {console.log(`merhaba ${firstName}`)}
